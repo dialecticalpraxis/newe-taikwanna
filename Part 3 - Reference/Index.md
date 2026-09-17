@@ -3,7 +3,7 @@
 ## A
 
 - Alden Hayes — [[Introduction#Oral Traditions and Written Documentation|Oral Traditions and Written Documentation]]
-- Anna (Nan) Smith — [[Introduction#Oral Traditions and Written Documentation|Oral Traditions and Written Documentation]]
+- Anne (Nan) Smith — [[Introduction#Oral Traditions and Written Documentation|Oral Traditions and Written Documentation]]
 - Anna Premo-naapeh — [[Introduction#Oral Traditions and Written Documentation|Oral Traditions and Written Documentation]]
 
 ## B
@@ -23,7 +23,7 @@
 
 ## E
 
-- Early Crum-naappeh — [[Introduction#Oral Traditions and Written Documentation|Oral Traditions and Written Documentation]]
+- Earl Crum-naappeh — [[Introduction#Oral Traditions and Written Documentation|Oral Traditions and Written Documentation]]
 
 ## F
 
@@ -51,7 +51,7 @@
 
 ## N
 
-- Norman Cvannaugh — [[Introduction#Revitalization Efforts|Revitalization Efforts]]
+- Norman Cavanaugh — [[Introduction#Revitalization Efforts|Revitalization Efforts]]
 - Numic — [[Introduction#Linguistic Genealogy|Linguistic Genealogy]]
 
 ## O

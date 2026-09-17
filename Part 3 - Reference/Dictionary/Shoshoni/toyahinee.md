@@ -7,6 +7,6 @@ parent: "[[toya]]"
 ---
 # toyahinee
 
-[[noun|N]] mountain
+[[noun|N]] mountain dweller
 
 Sub-entry of [[toya]].

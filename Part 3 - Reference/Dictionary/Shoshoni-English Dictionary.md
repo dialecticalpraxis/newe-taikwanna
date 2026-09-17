@@ -32,6 +32,6 @@ Each headword links to its entry note in `Dictionary/Shoshoni/`. See [[Abbreviat
 - [[tekka]] [[verb|V]] to eat
 - [[tepooh]] [[verb|V]] to write
 - [[toya]] [[noun|N]] mountain
-    - [[toyahinee]] [[noun|N]] mountain
+    - [[toyahinee]] [[noun|N]] mountain dweller
 - [[tukkuh]] [[noun|N]] meat
     - [[tukkutekka]] [[noun|N]] meat eater, sheep eater
