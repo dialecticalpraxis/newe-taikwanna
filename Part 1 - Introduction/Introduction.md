@@ -14,7 +14,7 @@ There is no consensus on how many Shoshoni speakers there still are today, but e
 
 Shoshoni, like many of the Indigenous languages of North America has suffered a devastating decline in speakers due to colonial policies of cultural genocide by the United States, Canada, and Mexico. The implementation of 'Indian' residential and boarding schools by the United States and Canada played a major role in the decline in speakers of Indigenous languages of North America. These policies violently kidnapped hundreds of thousands of Indigenous children from their families and communities, forcing them to live and study at a boarding school, many of which were run by Christian churches, and indoctrinated to assimilate to the dominant white Euro-American/Canadian culture.
 
-Many Indigenous children died through this racist and genocidal policy that continued well into the 1970s. The generational effects of residential schools have been widespread; the trauma felt by even the youngest of children today. Indian Boarding Schools in the United States were active until the mid-1970s and many Indigenous cultural, spiritual, and religious practices were illegal until the American Religious Freedom Act of 1978.
+Many Indigenous children died through this racist and genocidal policy that continued well into the 1970s. The generational effects of residential schools have been widespread; the trauma felt by even the youngest of children today. Indian Boarding Schools in the United States were active until the mid-1970s and many Indigenous cultural, spiritual, and religious practices were illegal until the American Indian Religious Freedom Act of 1978.
 
 ### Oral Traditions and Written Documentation
 
@@ -69,7 +69,7 @@ The Numic branch of Uto-Aztecan languages is made up of three branches, includin
 
 *Figure 1: Map of the distribution of the Uto-Aztecan Language Family* ^utoaztecanmap
 
-By understanding how languages are related or unrelated to each other, we can better understand migration patterns of people from thousands of years ago. Work by Dr. Katherine Fowler, published in 1972, points to the linguistic homeland of Proto-Numic as being somewhere near present-day Owens Valley, just east of the Sierra Nevada in present-day California. By reconstructing words from the present Numic languages into Proto-Numic, a combination of words for the ecology of this area matches with the time period she studied, approximately 1000-2000 years ago. This means that before the Numic languages started to break up into the individual languages that they are now, they were all one language, having descended from Proto-Uto-Aztecan.
+By understanding how languages are related or unrelated to each other, we can better understand migration patterns of people from thousands of years ago. Work by Dr. Catherine Fowler, published in 1972, points to the linguistic homeland of Proto-Numic as being somewhere near present-day Owens Valley, just east of the Sierra Nevada in present-day California. By reconstructing words from the present Numic languages into Proto-Numic, a combination of words for the ecology of this area matches with the time period she studied, approximately 1000-2000 years ago. This means that before the Numic languages started to break up into the individual languages that they are now, they were all one language, having descended from Proto-Uto-Aztecan.
 
 ## The Shoshone People
 
