@@ -1,0 +1,23 @@
+filters:
+  and:
+    - file.inFolder("Part 3 - Reference/Dictionary/Shoshoni")
+properties:
+  file.name:
+    displayName: Shoshoni
+  pos:
+    displayName: Part of speech
+  english:
+    displayName: English
+  parent:
+    displayName: Sub-entry of
+views:
+  - type: table
+    name: Shoshoni-English
+    order:
+      - file.name
+      - pos
+      - english
+      - parent
+    sort:
+      - property: file.name
+        direction: ASC

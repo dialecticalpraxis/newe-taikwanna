@@ -1,0 +1,11 @@
+# Obsidian local config
+.obsidian/
+.trash/
+
+# macOS
+.DS_Store
+
+# Held out of the public repo until image rights are confirmed
+Attachments/cover-front.png
+Attachments/cover-back.png
+Attachments/utoaztecanmap.png

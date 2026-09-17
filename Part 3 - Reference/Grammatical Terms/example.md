@@ -1,0 +1,4 @@
+---
+abbreviation: EX
+---
+# example
